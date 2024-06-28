@@ -10,17 +10,24 @@
     Привет!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
+<h2>
+  Обо мне 👨‍💻:
+</h2>
 
-### :woman_technologist: Обо мне :
-Я backend разработчик: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<div align="left">
+  
+Я backend разработчик: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+ - 🧰 Java, Spring Boot, Hibernate, Liquibase и JUnit.
 
-  -➤ Java, Spring Boot, Hibernate, Liquibase и JUnit.
+ - 🏗️ Понимаю структуры данных и алгоритмы, хорошо знаком с принципами ООП и SOLID.
 
-  -➤ Понимаю структуры данных и алгоритмы, хорошо знаком с принципами ООП и SOLID.
+ - 📝 SQL, PL/SQL и работал с PostgreSQL и Oracle.
 
- -➤ SQL, PL/SQL и работал с PostgreSQL и Oracle.
+ - 🕸️ Maven, Git, Docker.
 
-  -➤ Maven, Git, Docker.
+</div>
 
 ---
 
